@@ -1,0 +1,712 @@
+{
+  "Agriculture_yield": [
+    "Agriculture_yield",
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Amil": [
+    "Amil",
+    "Collection",
+    "Collection_channel",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Arafat": [
+    "Arafat",
+    "Islam",
+    "Makkah",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Arafat_fasting": [
+    "Arafat_fasting",
+    "Fasting",
+    "Islam",
+    "Pillars",
+    "Sunnat_fasting"
+  ],
+  "Asar": [
+    "Asar",
+    "Farz",
+    "Islam",
+    "Namaz",
+    "Pillars"
+  ],
+  "Asnaf_amil": [
+    "Asnaf_amil",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_fakir": [
+    "Asnaf_fakir",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_fisabilillah": [
+    "Asnaf_fisabilillah",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_gharimin": [
+    "Asnaf_gharimin",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_ibnussabil": [
+    "Asnaf_ibnussabil",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_miskin": [
+    "Asnaf_miskin",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_muallaf": [
+    "Asnaf_muallaf",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Asnaf_riqab": [
+    "Asnaf_riqab",
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Awabeen_prayer": [
+    "Awabeen_prayer",
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Bank_savings": [
+    "Bank_savings",
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Belief_in_last_prophet": [
+    "Belief_in_last_prophet",
+    "Islam",
+    "Pillars",
+    "Shaddah"
+  ],
+  "Bright_moon_fasting": [
+    "Bright_moon_fasting",
+    "Fasting",
+    "Islam",
+    "Pillars",
+    "Sunnat_fasting"
+  ],
+  "Chasht_prayer": [
+    "Chasht_prayer",
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Collection": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Collection_channel": [
+    "Collection",
+    "Collection_channel",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Counter": [
+    "Collection",
+    "Collection_channel",
+    "Counter",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Distribution": [
+    "Distribution",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Eid_prayer": [
+    "Eid_prayer",
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Wajib"
+  ],
+  "Eligible_people(to_be_given_zakat)": [
+    "Eligible_people(to_be_given_zakat)",
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Fajr": [
+    "Fajr",
+    "Farz",
+    "Islam",
+    "Namaz",
+    "Pillars"
+  ],
+  "Farz": [
+    "Farz",
+    "Islam",
+    "Namaz",
+    "Pillars"
+  ],
+  "Fasting": [
+    "Fasting",
+    "Islam",
+    "Pillars"
+  ],
+  "Friday_prayer": [
+    "Friday_prayer",
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Wajib"
+  ],
+  "Funeral_prayer": [
+    "Funeral_prayer",
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Sunnat"
+  ],
+  "Gold_calculation": [
+    "Collection",
+    "Gold_calculation",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Haajat_prayer": [
+    "Haajat_prayer",
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Hajar_e_aswad": [
+    "Hajar_e_aswad",
+    "Islam",
+    "Makkah",
+    "Masjid_al_Haraam",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Hateem": [
+    "Hateem",
+    "Islam",
+    "Makkah",
+    "Masjid_al_Haraam",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Investment_Stocks_Shares": [
+    "Collection",
+    "Investment_Stocks_Shares",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Isha": [
+    "Farz",
+    "Isha",
+    "Islam",
+    "Namaz",
+    "Pillars"
+  ],
+  "Ishraq_prayer": [
+    "Ishraq_prayer",
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Islam": [
+    "Islam"
+  ],
+  "Istikhara_prayer": [
+    "Islam",
+    "Istikhara_prayer",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Istisqa_prayer": [
+    "Islam",
+    "Istisqa_prayer",
+    "Namaz",
+    "Pillars",
+    "Sunnat"
+  ],
+  "Jamarat": [
+    "Islam",
+    "Jamarat",
+    "Makkah",
+    "Mina",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Kaffara": [
+    "Fasting",
+    "Islam",
+    "Kaffara",
+    "Pillars",
+    "Wajib_fasting"
+  ],
+  "Khusoof_prayer": [
+    "Islam",
+    "Khusoof_prayer",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Livestick": [
+    "Collection",
+    "Islam",
+    "Livestick",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Madinah": [
+    "Islam",
+    "Madinah",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Maghrib": [
+    "Farz",
+    "Islam",
+    "Maghrib",
+    "Namaz",
+    "Pillars"
+  ],
+  "Makkah": [
+    "Islam",
+    "Makkah",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Mandatory_fasting": [
+    "Fasting",
+    "Islam",
+    "Mandatory_fasting",
+    "Pillars"
+  ],
+  "Maqam_e_ibrahim": [
+    "Islam",
+    "Makkah",
+    "Maqam_e_ibrahim",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Marwa": [
+    "Islam",
+    "Makkah",
+    "Marwa",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Masjid_al_Haraam": [
+    "Islam",
+    "Makkah",
+    "Masjid_al_Haraam",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Mataf": [
+    "Islam",
+    "Makkah",
+    "Mataf",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Meezab_e_rehmat": [
+    "Islam",
+    "Makkah",
+    "Masjid_al_Haraam",
+    "Meezab_e_rehmat",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Meqaat": [
+    "Islam",
+    "Makkah",
+    "Meqaat",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Mina": [
+    "Islam",
+    "Makkah",
+    "Mina",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Moharram_fasting": [
+    "Fasting",
+    "Islam",
+    "Moharram_fasting",
+    "Pillars",
+    "Sunnat_fasting"
+  ],
+  "Money_lent": [
+    "Collection",
+    "Islam",
+    "Money_lent",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Multazim": [
+    "Islam",
+    "Makkah",
+    "Masjid_al_Haraam",
+    "Multazim",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Muzdalifah": [
+    "Islam",
+    "Makkah",
+    "Muzdalifah",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Nafil_fasting": [
+    "Fasting",
+    "Islam",
+    "Nafil_fasting",
+    "Pillars"
+  ],
+  "Nafl": [
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars"
+  ],
+  "Namaz": [
+    "Islam",
+    "Namaz",
+    "Pillars"
+  ],
+  "Nazar": [
+    "Fasting",
+    "Islam",
+    "Nazar",
+    "Pillars",
+    "Wajib_fasting"
+  ],
+  "Onness_in_Allah": [
+    "Islam",
+    "Onness_in_Allah",
+    "Pillars",
+    "Shaddah"
+  ],
+  "Pension": [
+    "Collection",
+    "Islam",
+    "Pension",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Pilgrimage": [
+    "Islam",
+    "Pilgrimage",
+    "Pillars"
+  ],
+  "Pilgrimage_time": [
+    "Islam",
+    "Pilgrimage",
+    "Pilgrimage_time",
+    "Pillars",
+    "Rituals_pilgrimage"
+  ],
+  "Pillars": [
+    "Islam",
+    "Pillars"
+  ],
+  "Place": [
+    "Islam",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage"
+  ],
+  "Punsihments_pilgrimage": [
+    "Islam",
+    "Pilgrimage",
+    "Pillars",
+    "Punsihments_pilgrimage"
+  ],
+  "Ramadan": [
+    "Fasting",
+    "Islam",
+    "Mandatory_fasting",
+    "Pillars",
+    "Ramadan"
+  ],
+  "Random_fasting": [
+    "Fasting",
+    "Islam",
+    "Nafil_fasting",
+    "Pillars",
+    "Random_fasting"
+  ],
+  "Rikaz(Buried_stones_metals)": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Rikaz(Buried_stones_metals)",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Rituals_pilgrimage": [
+    "Islam",
+    "Pilgrimage",
+    "Pillars",
+    "Rituals_pilgrimage"
+  ],
+  "Saffa": [
+    "Islam",
+    "Makkah",
+    "Pilgrimage",
+    "Pillars",
+    "Place",
+    "Rituals_pilgrimage",
+    "Saffa"
+  ],
+  "Salary_Deduction": [
+    "Collection",
+    "Collection_channel",
+    "Islam",
+    "Pillars",
+    "Salary_Deduction",
+    "Zakat"
+  ],
+  "Salat_ul_Witr": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Salat_ul_Witr",
+    "Wajib"
+  ],
+  "Shaban_fasting": [
+    "Fasting",
+    "Islam",
+    "Nafil_fasting",
+    "Pillars",
+    "Shaban_fasting"
+  ],
+  "Shaddah": [
+    "Islam",
+    "Pillars",
+    "Shaddah"
+  ],
+  "Shawwal_fasting": [
+    "Fasting",
+    "Islam",
+    "Nafil_fasting",
+    "Pillars",
+    "Shawwal_fasting"
+  ],
+  "Silver_calculation": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Silver_calculation",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Sunnat": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Sunnat"
+  ],
+  "Sunnat_fasting": [
+    "Fasting",
+    "Islam",
+    "Pillars",
+    "Sunnat_fasting"
+  ],
+  "Tahajud_prayer": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Sunnat",
+    "Tahajud_prayer"
+  ],
+  "Tahiyyatul_Wuzzu_prayer": [
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars",
+    "Tahiyyatul_Wuzzu_prayer"
+  ],
+  "Tarawwih_prayer": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Sunnat",
+    "Tarawwih_prayer"
+  ],
+  "Tasbih_prayer": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Sunnat",
+    "Tasbih_prayer"
+  ],
+  "Tawaff_prayer": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Tawaff_prayer",
+    "Wajib"
+  ],
+  "Through_Agent": [
+    "Collection",
+    "Collection_channel",
+    "Islam",
+    "Pillars",
+    "Through_Agent",
+    "Zakat"
+  ],
+  "Travel_prayer": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Sunnat",
+    "Travel_prayer"
+  ],
+  "Wajib": [
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Wajib"
+  ],
+  "Wajib_fasting": [
+    "Fasting",
+    "Islam",
+    "Pillars",
+    "Wajib_fasting"
+  ],
+  "Zakat": [
+    "Islam",
+    "Pillars",
+    "Zakat"
+  ],
+  "Zakat_al_Fitr": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_al_Fitr",
+    "Zakat_type"
+  ],
+  "Zakat_al_Maal": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_al_Maal",
+    "Zakat_type"
+  ],
+  "Zakat_calculation": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_calculation"
+  ],
+  "Zakat_type": [
+    "Collection",
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_type"
+  ],
+  "Zakat_wealth": [
+    "Islam",
+    "Pillars",
+    "Zakat",
+    "Zakat_wealth"
+  ],
+  "Zuhr": [
+    "Farz",
+    "Islam",
+    "Namaz",
+    "Pillars",
+    "Zuhr"
+  ],
+  "kusoof_prayer": [
+    "Islam",
+    "Nafl",
+    "Namaz",
+    "Pillars",
+    "kusoof_prayer"
+  ]
+}
